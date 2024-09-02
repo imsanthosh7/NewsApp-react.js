@@ -35,8 +35,10 @@
    ```bash
    npm install
   or
-   ```bash
-   yarn start
+ ```bash
+     yarn start
+   ```
+
 
 
    
