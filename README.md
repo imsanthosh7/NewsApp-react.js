@@ -39,6 +39,12 @@
      yarn start
    ```
 
+<h3>Screenshots of the Project 📸</h3>
+<h3 align='center'>Home Page</h3>
+<div align='center'>
+<img src='https://github.com/user-attachments/assets/4ca8393d-2909-48ec-9765-7a437916dabb'/>
+</div>
+
 
 
    
