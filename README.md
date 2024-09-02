@@ -1,4 +1,4 @@
-# Newsletter
+# Newsletter🗞️
 
 **Tech Stack:** ReactJS, TailwindCSS, NewsAPI
 
